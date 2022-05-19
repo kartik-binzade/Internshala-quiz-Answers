@@ -7,13 +7,13 @@ Q1. An internship is____________
 
   
 
-- [ ] A job that you do for few years
+- [x] A job that you do for few years
 
 -  [x] A short duration (0 - 6 months) work experience where you work with an organisation
 
-- [ ] A class room training program where you are taught a subject
+- [x] A class room training program where you are taught a subject
 
-- [ ] A higher study program
+- [x] A higher study program
 
 <br  />
 
